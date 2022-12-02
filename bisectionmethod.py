@@ -1,5 +1,3 @@
-
-#pratham jaiswal
 def f(x):
     return x**3-5*x-9
 
